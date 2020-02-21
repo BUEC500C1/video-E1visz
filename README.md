@@ -12,6 +12,8 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
 
 * OpenCV(cv2).  
 
+* Queue, Threading.  
+
 ## Run Program
 *Assumes __OpenCV, Pillow__ package already installed.*
 
@@ -29,6 +31,13 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
   $ pip install opencv  
   $ pip install pillow
   $ pip install tweepy
+  ```
+3. Add API key to local "configr.py" file and save:  
+  ```
+  consumer_key = "your API key"
+  consumer_secret = "your API secret key"
+  access_token = "your access token key"
+  access_token_secret = "your access token secret key"
   ```
 
 
