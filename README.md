@@ -53,7 +53,7 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
 1. The image stored in the file system.[Click](https://github.com/BUEC500C1/video-E1visz/tree/master/img)  
    <img src="img/Img result.png">
 2. The video stored in the file system.[Click](https://github.com/BUEC500C1/video-E1visz/tree/master/Video)  
-
+   <img src="img/Video result.png">
 3. the UI for the threads.  
    <img src="img/Interface.png">
 
