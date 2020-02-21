@@ -10,17 +10,20 @@ video-E1visz created by GitHub Classroom
 * [Results](#test-cases)
 * [Question](#lessons-learned)
 
-<a name="product-mission"/>
+<a name="product-mission"/> 
+
 ## Project Mission
 Develop a queue system that can collect the latest twitters of a given hashtage and convert the text to a short video summary in the same time.  
 
 <a name="Recommendation"/>
+
 ## Recommendation
 * Develop a queue system that can exercise your requirements with stub functions.  
 * Develop the twitter functionality with an API.  
 * Integrate them.  
 
 <a name="architecture-needed"/>
+
 ## Architecture Needed
 
 * Python code running on computer.    
@@ -34,7 +37,9 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
 * Queue, Threading.  
 
 <a name="run-program"/>
+
 ## Run Program
+
 *Assumes __OpenCV, Pillow__ package already installed.*
 
 *Assumes __twitter API Keys__ available.*
@@ -68,7 +73,9 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
 6. run the "SetQue.py", the images and videos will be saved automatically in the local file system.
 
 <a name="test-cases"/>
+
 ## Results
+
 
 1. The image stored in the file system.[Click](https://github.com/BUEC500C1/video-E1visz/tree/master/img)  
    <img src="img/Img result.png">
