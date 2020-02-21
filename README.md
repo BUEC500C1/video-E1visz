@@ -82,7 +82,8 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
 ## Question
 
 ### 1. How many API calls you can handle simultaneously and why?  
-      Now only one worker used in the process for one API. However, at same time, I can apply four different workers simutaneously.
+      Now only one worker used in the process for one API. However, at same time, 
+      I can apply four different workers simutaneously.
 ### 2. For example, run different API calls at the same time?  
       Yes.
 ### 3. Split the processing of an API into multiple threads?  
