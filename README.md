@@ -22,9 +22,9 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
 *Requires __Python 3.x__ to run!*
 
 1. Clone the repo by using the command below.
- ```
-  $ git clone https://github.com/BUEC500C1/video-E1visz.git
-  ```
+   ```
+   $ git clone https://github.com/BUEC500C1/video-E1visz.git
+   ```
 
 2. Ensure the following Python packages are installed: cv2, PIL, tweepy
    ```
@@ -45,7 +45,14 @@ Develop a queue system that can collect the latest twitters of a given hashtage 
    ```
    hashtag = ['James', 'Kobe', 'James Harden', 'Curry', 'Wade', 'Trump']
    ```
-6. run the "SetQue.py", the images and videos will be saved in the local file system.
+6. run the "SetQue.py", the images and videos will be saved automatically in the local file system.
 
+
+## Results
+
+1. The image stored in the file system.
+
+2. The video stored in the file system.
+   https://github.com/BUEC500C1/video-E1visz/blob/master/Video/Curry.avi
 
 
