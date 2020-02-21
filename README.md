@@ -1,9 +1,6 @@
 # video-E1visz
 video-E1visz created by GitHub Classroom
 
-# WeatherAPI-E1visz
-WeatherAPI-E1visz created by GitHub Classroom
-
 #### Contents
 
 * [Product Mission](#product-mission)
