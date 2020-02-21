@@ -1,4 +1,4 @@
-consumer_key = "56LXacnm0IRXBWeY1asEqS9Rd"
-consumer_secret = "I05DyxAA84uWeOC2W4l03E3N3q59qIjSN6ppuXwOCkdGv5TpWF"
-access_token = "1172941991090556928-Pcn3idJ6AueFfim9DxvmehghPDi70w"
-access_token_secret = "Xxp0yEH3JEJeiVLqyx00HmgjIrweReT8pp0UKt1GqHjYI"
+consumer_key = "your API key"
+consumer_secret = "your API secret key"
+access_token = "your access token key"
+access_token_secret = "your access token secret key"
