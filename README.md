@@ -9,7 +9,6 @@ video-E1visz created by GitHub Classroom
 * [Run Program](#run-program)
 * [Code Flowchart](#code-flowchart)
 * [Test Cases](#test-cases)
-* [Lessons Learned](#lessons-learned)
 
 <a name="product-mission"/>
 
@@ -70,6 +69,3 @@ I, as a ground crew, would like to use this API to get the weather imformation o
 
 <a name="lessons-learned"/>
 
-## Lessons Learned
-
-This project was interesting. In this project, I learned to use OpenweatherMap API to get the realtime weather conditon of the airport. Besides, I also learned to use json file in a python format.
