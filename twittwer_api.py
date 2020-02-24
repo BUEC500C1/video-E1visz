@@ -1,11 +1,11 @@
  # Holds the twitter API keys in a GITIGNORED file
-import config
+import keys
 # Imports the tweepy library
 import tweepy
 
 
-auth = tweepy.OAuthHandler(config.consumer_key, config.consumer_secret)
-auth.set_access_token(config.access_token, config.access_token_secret)
+auth = tweepy.OAuthHandler(keys.consumer_key, keys.consumer_secret)
+auth.set_access_token(keys.access_token, keys.access_token_secret)
 
 api = tweepy.API(auth)
 
