@@ -5,7 +5,7 @@ import os
 
 def test_tweetApi():
   hashtag = "Test"
-  assert Get_twitter(Test) != ''
+  assert Get_twitter(hashtag) != ''
 
 def test_mainFunction():
   hashtag = "Test"
